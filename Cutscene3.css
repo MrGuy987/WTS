@@ -8,7 +8,7 @@ body {
     height: 100vh;
     overflow: hidden;
     align-items: center;
-    background: url('images/image3.png') no-repeat center/cover;
+    background: url('images/bg3.png') no-repeat center/cover;
   }
 
   #player {
