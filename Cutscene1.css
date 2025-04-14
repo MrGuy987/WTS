@@ -24,8 +24,8 @@ body {
 
 @keyframes walk-right {
     0% {
-        left: 350px;
-        bottom: 250px;
+        left: 150px;
+        bottom: 100px;
     }
     100% {
         left: 85%;
